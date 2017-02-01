@@ -1,5 +1,5 @@
 # merges
 
 * one
-* deux
+* doo
 * three
