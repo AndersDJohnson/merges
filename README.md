@@ -1,1 +1,5 @@
 # merges
+
+* one
+* two
+* three
